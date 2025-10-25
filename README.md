@@ -1,5 +1,3 @@
-<!-- 🌟 PROFILE HEADER -->
-![Gina Buvoli – Data Analytics & Revenue Management](https://raw.githubusercontent.com/gbuvoli/gbuvoli/main/header.png)
 
 # 👋 Hi there! I'm **Gina Buvoli**
 
